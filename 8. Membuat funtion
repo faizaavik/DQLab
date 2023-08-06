@@ -1,0 +1,9 @@
+membuat funsi sendiri
+#Membuat Fungsi
+def kabar():
+	print("selamat pagi jef,bagaimana kabarmu?")
+	
+	
+# Pemanggilan Fungsi
+kabar()
+--------------------------------------------------------------------------------------------
